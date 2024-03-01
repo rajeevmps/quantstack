@@ -1,2 +1,2 @@
-# quantstack
-To all aspiring quants
+# Quantstack
+With love to all aspiring quants
